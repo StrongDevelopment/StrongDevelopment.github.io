@@ -1,4 +1,4 @@
 ---
-How To Markdown
+Layout: default
 ---
 **Hello**
