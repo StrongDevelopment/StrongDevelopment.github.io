@@ -14,7 +14,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-{{ site.baseurl }}{% post_url 2017-05-22-how-to.markdown %}
+{{ site.baseurl }}{% post_url 2017-05-22-how-to %}
 
 # Header 1
 ## Header 2
