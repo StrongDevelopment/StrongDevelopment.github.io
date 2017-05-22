@@ -10,12 +10,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+[Name of Link]({{ site.baseurl }}{% post_url 2017-05-22-how-to %})
 ```markdown
 Syntax highlighted code block
 
 
-[Name of Link]({{ site.baseurl }}{% post_url 2017-05-22-how-to %})
+
 
 # Header 1
 ## Header 2
